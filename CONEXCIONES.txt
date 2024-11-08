@@ -1,0 +1,9 @@
+Motor DC:
+Se conectó uno de los terminales del motor al colector de un transistor NPN (TIP120) y el otro terminal directamente al pin de 5V del Arduino. El emisor del transistor se conectó a tierra (GND) del Arduino. Además, se utilizó una resistencia de 220Ω para conectar la base del transistor al pin digital 9 del Arduino, encargado de controlar el motor.
+
+Zumbador:
+El pin positivo del zumbador fue conectado al pin digital 11 del Arduino, mientras que el pin negativo se conectó a GND.
+
+Sensor de Ultrasonido (HC-SR04):
+Se conectó el pin VCC del sensor a 5V y el pin GND a tierra del Arduino. Los pines Trigger y Echo se conectaron a los pines digitales 2 y 3 del Arduino, respectivamente, para manejar la medición de distancias.
+
