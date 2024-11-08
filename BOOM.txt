@@ -1,0 +1,33 @@
+Cantidad: 1
+Descripción: Microcontrolador principal para controlar el circuito.
+Motor DC
+
+Cantidad: 1
+Descripción: Motor de corriente continua para el sistema de activación.
+Transistor NPN (TIP120)
+
+Cantidad: 1
+Descripción: Transistor para controlar el motor DC actuando como interruptor.
+Resistencia 220Ω
+
+Cantidad: 1
+Descripción: Limita la corriente que llega a la base del transistor.
+Zumbador Piezoeléctrico
+
+Cantidad: 1
+Descripción: Emite un sonido para señalización o alertas.
+Sensor de Ultrasonido (HC-SR04)
+
+Cantidad: 1
+Descripción: Mide la distancia utilizando ondas ultrasónicas.
+Cables Dupont (Hembra-Hembra, Macho-Hembra, Macho-Macho)
+
+Cantidad Total: 10
+Distribución:
+Hembra-Hembra: 3 (Para conexiones del motor y transistor)
+Macho-Hembra: 5 (Para conectar el Arduino con el sensor de ultrasonido y el zumbador)
+Macho-Macho: 2 (Para conexiones entre el transistor y el motor DC)
+Protoboard
+
+Cantidad: 1
+Descripción: Para facilitar las conexiones sin soldaduras.
